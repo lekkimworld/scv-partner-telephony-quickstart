@@ -6,5 +6,5 @@
 -->
 
 <aura:component implements="service_cloud_voice:messageBridge">
-    <lightning:messageChannel type="REPLACE_WITH_NAMESPACE_NAME__ServiceCloudVoiceMessageChannel__c" aura:id="sampleMessageChannel" onMessage="{!c.handleMessage}"/>
+    <lightning:messageChannel type="ServiceCloudVoiceMessageChannel__c" aura:id="sampleMessageChannel" onMessage="{!c.handleMessage}"/>
 </aura:component>

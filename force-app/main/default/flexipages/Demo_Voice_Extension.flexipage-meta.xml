@@ -4,13 +4,13 @@
         <itemInstances>
             <componentInstance>
                 <componentName>AuraVoiceExtension</componentName>
-                <identifier>REPLACE_WITH_NAMESPACE_NAME_AuraVoiceExtension</identifier>
+                <identifier>AuraVoiceExtension</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>lwcVoiceExtension</componentName>
-                <identifier>REPLACE_WITH_NAMESPACE_NAME_lwcVoiceExtension</identifier>
+                <identifier>lwcVoiceExtension</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

@@ -13,9 +13,9 @@
     <connectorUrl>/apex/connectorPage</connectorUrl>
     <customConfig>sampleCustomConfig__c</customConfig>
     <customLoginUrl>test</customLoginUrl>
-    <developerName>sampleVendor</developerName>
+    <developerName>lekkimVendor</developerName>
     <integrationClass>SampleIntegrationImpl</integrationClass>
-    <masterLabel>Sample Vendor</masterLabel>
+    <masterLabel>lekkim Vendor</masterLabel>
     <namedCredential>sampleNamedCredential</namedCredential>
     <userSyncingSupported>true</userSyncingSupported>
     <vendorType>ServiceCloudVoicePartner</vendorType>
